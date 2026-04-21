@@ -4,7 +4,7 @@
     <form action="{{ route('bapan') }}" method="post">
     @csrf
         <div>
-            <label for="userName">User Name</label>
+            <label for="userName">User Namedgdfdff</label>
             <input type="text" id="userName" name="userName" placeholder="User Name">
         </div>
         <div>
