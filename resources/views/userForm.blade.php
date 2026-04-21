@@ -8,8 +8,8 @@
             <input type="text" id="userName" name="userName" placeholder="User Name">
         </div>
         <div>
-            <label for="userEmail">Email</label>
-            <input type="text" id="userEmail" name="userEmail" placeholder="User Email">
+            <label for="userEmail">Emaildcgfdcfg</label>
+            <input type="text" id="userEmail" name="userEmail" placeholder="User Email Id">
         </div>
         <div>
             <button type="submit">Submit</button>
